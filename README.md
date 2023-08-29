@@ -1,2 +1,2 @@
 # place-Node
-Aquí encontrarás un consumo de API  en donde podrás reconocer un lugar al tomar una foto ,ya que, se conecta a Google Maps  
+Aquí encontrarás un aplicativo con uso estructural de Node falta ajustar algunos detalles para consumir un API  en donde se pueda reconocer un lugar al tomar una foto ,para que, se conecte a Google Maps  
